@@ -5,7 +5,7 @@ This objective of this project is to create a basic website that showcases three
 This project demonstrates the following HTML and Git skills:
  - Create HTML boilerplate, or basic structure, for web pages
  - Use anchor elements to create links to absolute and relative web pages
- - Use image elements to showcase images
+ - Use image elements to showcase images using appropriate alternate (alt) text
  - Format webpage content with the header, paragraph, strong, and emphasis elements
  - Create ordered and unordered lists
  - Use Git to stage and commit changes to local repositories
